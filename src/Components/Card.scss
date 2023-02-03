@@ -1,0 +1,22 @@
+* {
+  font-family: sans-serif;
+}
+
+.all-cards {
+  margin-top: 25px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.card {
+  padding: 10px;
+  border: 1px solid rgb(180, 177, 177);
+  min-height: 480px;
+  height: 100%;
+  width: 300px;
+
+  border-radius: 10px;
+}
+.card p {
+  padding-top: 10px;
+}

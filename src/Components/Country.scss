@@ -1,0 +1,20 @@
+.all {
+    margin-top: 45px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.search-input {
+    padding: 11px;
+    width: 300px;
+    border-radius: 10px;
+    border: 1px solid grey;
+}
+
+.select-country {
+    width: 300px;   
+    border: 1px solid grey;
+    border-radius: 10px;
+}
